@@ -1,0 +1,16 @@
+.card{
+    background-color: white;
+    /* padding: 2px; */
+    margin: 2px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: centre;
+
+}
+.card-image {
+    height: 40px;
+}
+ .card-right {
+    display: flex;
+     flex-direction: column-reverse;
+}  
